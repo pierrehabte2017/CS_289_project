@@ -1,0 +1,2 @@
+# CS_289_project
+In this projet we are developing a machine learning algorithm capable of predicting the skill assessed by a 6th grade Math exercise. For that we will compare several different supervised machine learning techniques trained on a dataset of 1434 exercises. We will also study an unsupervised algorithm capable of clustering the exercises, and then able to propose similar exercises to an input one.
